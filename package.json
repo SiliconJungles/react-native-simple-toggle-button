@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Simple Toggle button component for react-native",
   "main": "ToggleButtonComponent.js",
+  "private": false,
   "repository": {
     "type": "git",
     "url": "git+https://github.com/SiliconJungles/react-native-simple-toggle-button.git"
