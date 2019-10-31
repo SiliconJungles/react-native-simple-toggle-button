@@ -6,7 +6,7 @@ Adapted from https://github.com/ashishpandey001/react-native-flip-toggle-button
 - `yarn add @siliconjungles/react-native-simple-toggle-button` 
 or 
 - `npm install @siliconjungles/react-native-simple-toggle-button --save`
-```
+```javascript
 <ToggleButtonComponent
   value={useQr}
   leftText="Left"
