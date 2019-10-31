@@ -32,5 +32,5 @@
 Dockerfile
 end_to_end_tests
 # Custom
-example
-images
+/example
+/images
